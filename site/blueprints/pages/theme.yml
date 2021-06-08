@@ -1,0 +1,12 @@
+title: Theme
+
+fields:
+  autoid:             
+    type: hidden
+    translate: false    
+  introduction:
+    type: markdown
+    label: Introduction
+  color:
+    type: text
+    label: Couleur

@@ -1,3 +1,45 @@
-title: Site
-preset: pages
-unlisted: true
+title: Timeline
+
+
+num: date desc
+
+tabs:
+  events:
+    label: Évènements
+    sections:
+      events:
+        headline: Évènements
+        type: pages
+        parent: site.find("chronologie")
+        templates: 
+          - event
+        status: all
+        sortBy: date desc
+        info: "{{page.category}} – {{page.date.toDate('Y')}}"
+    
+  years:
+    label: Années
+    sections:
+      years:
+        headline: Années
+        type: pages
+        parent: site.find("annees")
+        templates: 
+          - year
+        status: all
+  data:
+    label: Infos
+    sections:
+      themes:
+        headline: Thèmes
+        type: pages
+        parent: site.find("themes")
+        templates: 
+          - theme
+        status: all
+      data:
+        type: fields
+        fields:
+          introduction:
+            label: Introduction
+            type: markdown

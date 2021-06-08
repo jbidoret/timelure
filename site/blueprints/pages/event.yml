@@ -1,0 +1,50 @@
+title: Event
+
+
+columns:
+  - width: 2/3   
+    sections:
+      data:
+        type: fields   
+        fields:
+          introduction:
+            label: Introduction
+            type: markdown
+          details:
+            label: Détails
+            type: markdown
+      gallery:
+        headline: Galerie
+        type: files
+        label: Images
+        info: "{{file.layout}}"
+        layout: cards
+  - width: 1/3
+    sections:
+      fields:
+        type: fields
+        fields:
+          year:
+            type: select
+            label: Année
+            options: query
+            multiple: false
+            query:
+              fetch: site.find("annees").children.listed
+              text: "{{ page.title }}"
+              value: "{{ page.title }}"
+          theme:
+            type: select
+            label: Thème
+            options: query
+            multiple: false
+            query:
+              fetch: site.find("themes").children.listed
+              text: "{{ page.title }}"
+              value: "{{ page.AUTOID }}"
+          cover:
+            type: files
+            multiple: false
+      files: 
+        type: files
+        headline: Fichiers

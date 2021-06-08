@@ -1,0 +1,6 @@
+title: Year
+
+fields:
+  date:
+    label: Date
+    type: date

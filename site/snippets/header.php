@@ -18,6 +18,17 @@
     endif
   ?>
 
+  <style>
+<?php $i=1; foreach(page('themes')->children() as $theme):?>
+  .year span:nth-of-type(<?= $i ?>),
+  .<?= $theme->slug() ?> .event h3,
+  .<?= $theme->slug() ?> {
+    --color: <?= $theme->color() ?>;
+  }
+<?php $i++; endforeach ?>
+
+  </style>
+
 </head>
 <body
    data-login="<?php e($kirby->user(),'true', 'false') ?>"

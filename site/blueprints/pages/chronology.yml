@@ -1,0 +1,23 @@
+title: Années
+
+options:
+  changeSlug: false
+  changeTitle: false
+  duplicate: false
+  delete: false
+  status: false
+
+sections:
+  drafts:
+    headline: Brouillons
+    type: pages
+    template: event
+    status: drafts
+    sortBy: date asc
+  listed:
+    headline: Évènements
+    type: pages
+    template: event
+    status: listed
+    sortBy: date asc
+  

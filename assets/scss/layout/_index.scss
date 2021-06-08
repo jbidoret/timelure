@@ -5,6 +5,9 @@
 //   "sidebar"
 //   etc.
 
+@import "home";
+
 body {
   margin: 0;
+  background: var(--background-color);
 }

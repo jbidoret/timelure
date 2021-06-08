@@ -10,8 +10,10 @@ Kirby Configuration
 return [
 	'environment' => 'production',
 
-	// Cachebuster plugin
-	'schnti.cachebuster.active' => false,
+	// panel CSS
+	'panel' => [
+    'css' => 'assets/css/custom-panel.css',
+  ],
 
 	// Markdown plugin
 	'community.markdown-field.buttons'    => [['h1', 'h2', 'h3', 'h4', 'h5', 'h6'], 'bold', 'italic', 'divider', 'link','pagelink', 'email', 'file', 'divider', 'ul', 'ol', 'blockquote'],

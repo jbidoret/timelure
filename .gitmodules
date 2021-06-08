@@ -5,3 +5,6 @@
 [submodule "site/plugins/markdown-field"]
 	path = site/plugins/markdown-field
 	url = https://github.com/sylvainjule/kirby-markdown-field
+[submodule "site/plugins/kirby3-autoid"]
+	path = site/plugins/kirby3-autoid
+	url = https://github.com/bnomei/kirby3-autoid.git
