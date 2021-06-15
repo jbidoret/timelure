@@ -6,8 +6,8 @@ Autoid: 0lf6zjuw
 
 ----
 
-Introduction: L’aventure des Rencontres internationales de Lure
+Introduction: La programmation des Rencontres internationales de Lure
 
 ----
 
-Color: crimson
+Color: #de2a00
