@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 /* Document
    ========================================================================== */
@@ -379,7 +380,8 @@ html {
   margin-bottom: 2em; }
   #home header h2 {
     margin: 0;
-    color: var(--color); }
+    color: var(--color);
+    line-height: 1.2; }
   #home header > div {
     padding-left: calc( var(--line-offset) + var(--event-padding)); }
 
@@ -422,18 +424,18 @@ html {
 .events.typographie-et-technique {
   grid-column: 3; }
 
-.event {
+.timeline-event {
   padding: var(--event-padding) 0 var(--event-padding) calc( var(--line-offset) + var(--event-padding));
   position: relative; }
-  .event h3 {
+  .timeline-event h3 {
     color: var(--color, currentColor); }
-  .event.edition-et-culture-graphique {
+  .timeline-event.edition-et-culture-graphique {
     grid-column: 1; }
-  .event.les-rencontres-de-lure {
+  .timeline-event.les-rencontres-de-lure {
     grid-column: 2; }
-  .event.typographie-et-technique {
+  .timeline-event.typographie-et-technique {
     grid-column: 3; }
-  .event::before {
+  .timeline-event::before {
     content: "";
     display: block;
     height: 1rem;
@@ -447,15 +449,82 @@ html {
     transform: translateX(-50%);
     background: var(--color, red);
     border: 3px solid var(--background-color); }
-  .event :first-child {
+  .timeline-event :first-child {
     margin-top: 0; }
+  .timeline-event .introduction {
+    font-size: .85em; }
 
 .event-cover {
   margin: 0;
   padding: 0; }
 
+.event-detail,
+.gallery {
+  margin: 40px;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-gap: 40px; }
+
+.event-detail {
+  grid-gap: 0 40px; }
+  .event-detail header {
+    grid-column: span 6; }
+    .event-detail header h2 {
+      margin: 0; }
+    .event-detail header h1 {
+      margin-top: 0;
+      color: var(--color); }
+  .event-detail .event-text {
+    grid-column: span 4; }
+  .event-detail .event-details {
+    grid-column: span 2;
+    font-size: .85em; }
+    .event-detail .event-details h1, .event-detail .event-details h2, .event-detail .event-details h3, .event-detail .event-details h4 {
+      font-size: 1em;
+      font-weight: bold;
+      color: var(--color); }
+
+.gallery figure {
+  margin: 0;
+  padding: 0; }
+
+.gallery img {
+  display: block; }
+
+.gallery figcaption {
+  --padding: 1.5em;
+  font-size: .85em;
+  padding-left: var(--padding); }
+  .gallery figcaption p:first-child::before {
+    content: "↑ ";
+    width: var(--padding);
+    margin-left: calc(-1 * var(--padding));
+    display: inline-block; }
+
+.gallery .two_of_three {
+  grid-column: span 4; }
+
+.gallery .one_of_two {
+  grid-column: span 3; }
+
+.gallery .one_of_one {
+  grid-column: span 6; }
+
+.gallery .one_of_three {
+  grid-column: span 2; }
+
 body {
   margin: 0;
   background: var(--background-color); }
+
+#header {
+  padding: 40px;
+  border-bottom: 1px solid #000; }
+  #header * {
+    margin: 0; }
+  #header h1 {
+    font-size: 1em; }
+  #header a {
+    border-bottom: 1px solid #000; }
 
 /*# sourceMappingURL=main.css.map */

@@ -34,3 +34,8 @@
    data-login="<?php e($kirby->user(),'true', 'false') ?>"
    data-template="<?php echo $page->template() ?>"
    data-intended-template="<?php echo $page->intendedTemplate() ?>">
+
+  <header id="header">
+    <h1><a href="<?= $site->url() ?>"><?= $site->title() ?></a></h1>
+    <?php e($site->tagline()->isNotEmpty(), "<p>" . $site->tagline()->kti() . "</p>" ) ?>
+  </header>

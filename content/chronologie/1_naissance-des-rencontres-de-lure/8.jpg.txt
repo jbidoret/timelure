@@ -6,4 +6,4 @@ Caption:
 
 ----
 
-Layout: one_of_three
+Layout: one_of_two

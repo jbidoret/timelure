@@ -9,13 +9,33 @@ tabs:
     sections:
       events:
         headline: Évènements
-        type: pages
+        type: pagetable
+        limit: 25
         parent: site.find("chronologie")
         templates: 
           - event
         status: all
-        sortBy: date desc
-        info: "{{page.category}} – {{page.date.toDate('Y')}}"
+        sortBy: year asc
+        info: "{{page.year}} – {{page.theme.fromAutoID.title}}"
+        columns:
+          title:
+            label: Titre
+            text: '{{ page.title }}'
+            type: text
+            width: 1/3
+            searchable: true
+          year:
+            label: Année
+            text: '{{ page.year }}'
+            type: text
+            width: 1/3
+            searchable: true
+          theme:
+            label: Thème
+            text: '{{ page.theme.fromAutoID.title }}'
+            type: text
+            width: 1/3
+            searchable: true
     
   years:
     label: Années
@@ -40,6 +60,9 @@ tabs:
       data:
         type: fields
         fields:
+          tagline:
+            label: Sous-titre du site
+            type: markdown
           introduction:
             label: Introduction
             type: markdown

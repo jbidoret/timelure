@@ -10,15 +10,18 @@ columns:
           introduction:
             label: Introduction
             type: markdown
+          text:
+            label: Texte
+            type: markdown
           details:
             label: Détails
             type: markdown
-      gallery:
-        headline: Galerie
-        type: files
-        label: Images
-        info: "{{file.layout}}"
-        layout: cards
+          gallery:
+            label: Galerie
+            type: files
+            label: Images
+            info: "{{file.layout}}"
+            layout: cards
   - width: 1/3
     sections:
       fields:
