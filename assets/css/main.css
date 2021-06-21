@@ -307,7 +307,7 @@ template {
 
 :root {
   --basesize: 1.15rem;
-  --basefamily: "ITC Mendoza Roman", "Antique Olive Std", Georgia, serif
+  --basefamily:   Georgia, serif
 ; }
 
 body {
@@ -392,6 +392,9 @@ html {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-auto-flow: dense; }
+  @media (max-width: 600px) {
+    .year {
+      grid-template-columns: 1fr; } }
   .year span {
     border-right: 2px solid var(--color);
     width: var(--line-offset);
@@ -428,7 +431,9 @@ html {
   padding: var(--event-padding) 0 var(--event-padding) calc( var(--line-offset) + var(--event-padding));
   position: relative; }
   .timeline-event h3 {
-    color: var(--color, currentColor); }
+    font-weight: bold;
+    color: var(--color, currentColor);
+    margin-bottom: .25em; }
   .timeline-event.edition-et-culture-graphique {
     grid-column: 1; }
   .timeline-event.les-rencontres-de-lure {

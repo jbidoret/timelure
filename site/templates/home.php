@@ -28,9 +28,6 @@
     ?>
     <section id="annee-<?= $year->slug() ?>" class="year">
       <h2><?= $year->title() ?></h2>
-      <!-- so sorry -->
-      <span></span><span></span><span></span>
-      <!-- / so sorry -->
       <?php foreach($themes as $theme => $events) :
         $mytheme = autoid($theme); ?>
         <div class="events <?= $mytheme->slug() ?>">
