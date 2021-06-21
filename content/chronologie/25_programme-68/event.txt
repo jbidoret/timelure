@@ -1,0 +1,34 @@
+Title: Programme 68
+
+----
+
+Introduction: 
+
+----
+
+Text: 
+
+----
+
+Details: 
+
+----
+
+Gallery:
+
+- 1968-couv.jpg
+- 1968-prog.jpg
+
+----
+
+Year: 1968
+
+----
+
+Theme: 0lf6zjuw
+
+----
+
+Cover:
+
+- 1968-couv-rect-1024x.png

@@ -1,0 +1,44 @@
+Title: Eurotypographie
+
+----
+
+Introduction: 
+
+----
+
+Text: 
+
+----
+
+Details: 
+
+----
+
+Gallery:
+
+- 1991-prog-couv.jpg
+- 1991-prog-intro.jpg
+- 1991-prog-lundi.jpg
+- 1991-prog-lundi2.jpg
+- 1991-prog-mardi.jpg
+- 1991-prog-mardi2.jpg
+- 1991-prog-mercredi.jpg
+- 1991-prog-mercredi2.jpg
+- 1991-prog-jeudi.jpg
+- 1991-prog-jeudi2.jpg
+- 1991-prog-vendredi.jpg
+- 1991-prog-vendredi2.jpg
+
+----
+
+Year: 1991
+
+----
+
+Theme: 0lf6zjuw
+
+----
+
+Cover:
+
+- 1991-prog-couv-rect.png

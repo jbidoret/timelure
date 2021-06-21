@@ -1,0 +1,44 @@
+Title: Typographie singulière ordinaire
+
+----
+
+Introduction: 
+
+----
+
+Text: 
+
+----
+
+Details: 
+
+----
+
+Gallery:
+
+- 1999-prog-couv-intro.jpg
+- 1999-prog-couv-synthese.jpg
+- 1999-prog-couv.jpg
+- 1999-prog-lundi2.jpg
+- 1999-prog-lundi.jpg
+- 1999-prog-mardi.jpg
+- 1999-prog-mardi2.jpg
+- 1999-prog-mercredi.jpg
+- 1999-prog-jeudi.jpg
+- 1999-prog-jeudi2.jpg
+- 1999-prog-vendredi2.jpg
+- 1999-prog-vendredi.jpg
+
+----
+
+Year: 1999
+
+----
+
+Theme: 0lf6zjuw
+
+----
+
+Cover:
+
+- 1999-prog-couv-rect.jpg

@@ -1,0 +1,44 @@
+Title: Le temps Presse
+
+----
+
+Introduction: 
+
+----
+
+Text: La gazette n°1  et  n°2
+
+----
+
+Details: 
+
+----
+
+Gallery:
+
+- lure-prog-n1-1995-1-leg.jpeg
+- lure-prog-n1-1995-2-leg.jpeg
+- lure-prog-n1-1995-3-leg.jpeg
+- lure-prog-n1-1995-4-leg.jpeg
+- lure-prog-n1-1995-5-leg.jpeg
+- lure-prog-n1-1995-6-leg.jpeg
+- lure-prog-n1-1995-7-leg.jpeg
+- lure-prog-n1-1995-8-leg.jpeg
+- lure-prog-n2-1995-1-leg.jpeg
+- lure-prog-n2-1995-2-leg.jpeg
+- lure-prog-n2-1995-3-leg.jpeg
+- lure-prog-n2-1995-4-leg.jpeg
+
+----
+
+Year: 1995
+
+----
+
+Theme: 0lf6zjuw
+
+----
+
+Cover:
+
+- 1995-lure-prog-rect.jpg

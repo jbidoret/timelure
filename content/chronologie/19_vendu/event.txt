@@ -1,0 +1,42 @@
+Title: Vendu
+
+----
+
+Introduction: Le « contrat » graphique : commande, création, rémunération.
+
+----
+
+Text:
+
+Parfois aussi : un inconfort. À sa question sincère et pressante « que vaut vraiment ma création ? », le graphiste s’entend répondre par la petite voix malicieuse du doute : « sur le marché ? ».
+Le vécu, souvent passionné (et passionnant) de cette relation à l’argent est ainsi occulté, comme par pudeur, ou par malaise. Encore moins souvent abordée, la question essentielle : est-ce un hasard si le graphisme est le lieu où la tension entre la création et le commerce, l’art et l’argent semble la plus vive ? Il suffit peut-être de regarder les termes du contrat pour y répondre. Graphisme et typographie semblent constituer le champ privilégié où se crée, et se joue le jeu de la valeur. De quoi faire tourner la tête de ses praticiens… d’inquiétude ou d’ivresse.
+Rencontres et images, en paroles et… en chiffres, avec les graphistes, typographes, photographes, historiens, chercheurs et quelques empêcheurs de compter en rond.
+
+----
+
+Details: 
+
+----
+
+Gallery:
+
+- 2008-prog-synthese.jpg
+- 2008_programme-couv2.jpg
+- 2008-prog-intro.jpg
+- 2008-prog-couv.jpg
+- 2008_prog_page_1.jpg
+- 2008_prog_page_2.jpg
+
+----
+
+Year: 2008
+
+----
+
+Theme: 0lf6zjuw
+
+----
+
+Cover:
+
+- 2008-programme-rect.jpg

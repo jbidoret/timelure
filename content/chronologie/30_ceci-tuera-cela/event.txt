@@ -1,0 +1,47 @@
+Title: Ceci tuera cela
+
+----
+
+Introduction: 
+
+----
+
+Text: La face cachée de l'écriture est celle qui coïncide avec son support. Le typographe dissimule dans son ombre une large part de son travail.
+
+----
+
+Details: 
+
+----
+
+Gallery:
+
+- 2001-prog-couv.jpg
+- 2001-prog-intro3.jpg
+- 2001-prog-synthese-2.jpg
+- 2001-prog-intro.jpg
+- 2001-prog-intro2.jpg
+- ceci-tuera-cela-006.png
+- ceci-tuera-cela-012.png
+- ceci-tuera-cela-013.png
+- ceci-tuera-cela-014.png
+- ceci-tuera-cela-011.png
+- ceci-tuera-cela-015.png
+- ceci-tuera-cela-010.png
+- ceci-tuera-cela-009.png
+- ceci-tuera-cela-008.png
+- ceci-tuera-cela-007.png
+
+----
+
+Year: 2001
+
+----
+
+Theme: 0lf6zjuw
+
+----
+
+Cover:
+
+- 2001-prog-couv-rect.jpg

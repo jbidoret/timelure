@@ -1,0 +1,44 @@
+Title: Photocomposeuse lumitype
+
+----
+
+Introduction: La Lumitype est une machine à composer des textes, autrement dit une photocomposeuse, utilisant le principe de la photographie, et non des caractères mobiles en relief comme dans la composition traditionnelle, inventée par les ingénieurs français Louis Moyroud (1914-2010) et René Higonnet (1902-1983).
+
+----
+
+Text:
+
+Le premier livre entièrement composé sans caractères mobiles depuis Gutenberg, *The Wonderful World of Insects*, de Albro T. Gaul, paraît en 1953 aux éditions Rinehart de New York1. Il comporte 292 pages de texte et 46 photographies. C'est donc le premier livre de facture « classique » (en exceptant donc les petits ouvrages imprimés en lithographie ou autographie, reproduisant une écriture manuscrite) dont le texte ne fait intervenir à aucun moment des caractères en plomb. Il a été imprimé en offset au moyen de clichés sur plaques magnésium sans poudre2, à partir des films fournis par la photocomposeuse. Ce livre a été composé sur un prototype, le nom n’ayant pas été définitivement choisi, c’est la secrétaire de la société Photon, qui l’utilisait couramment pour composer des spécimens, qui baptisa cette machine Petunia. Le caractère était un Scotch Roman3 photographié à partir d’une police plomb.
+
+En 1954, le premier journal entièrement composé en photocomposition sur Lumitype 200 est *The Patriot Ledger de Quincy* (Massachusetts).
+
+Le succès de la Lumitype tout au long des années 1950 et 1960 reste grevé par les longues et coûteuses années de mise au point.
+
+----
+
+Details:
+
+### En savoir plus
+https://fr.wikipedia.org/wiki/Lumitype
+
+----
+
+Gallery:
+
+- 1953-wonderfulworldofinsects.jpg
+- 1953-photocomposeuse-2.jpg
+- 1953-photocomposeuse-4.png
+
+----
+
+Year: 1953
+
+----
+
+Theme: ap0c95mx
+
+----
+
+Cover:
+
+- 1953-photocomposeuse-4-copie.png

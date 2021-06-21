@@ -1,0 +1,38 @@
+Title: Typo aventure
+
+----
+
+Introduction: 
+
+----
+
+Text: 
+
+----
+
+Details: 
+
+----
+
+Gallery:
+
+- 1996-prog-couv.jpg
+- 1996-prog-lundi.jpg
+- 1996-prog-mardi.jpg
+- 1996-prog-mercredi.jpg
+- 1996-prog-jeudi.jpg
+- 1996-prog-vendredi.jpg
+
+----
+
+Year: 1996
+
+----
+
+Theme: 0lf6zjuw
+
+----
+
+Cover:
+
+- 1996-prog-couv-rect.jpg

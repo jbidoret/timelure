@@ -1,0 +1,35 @@
+Title: Les surfaces de l'inscription graphique
+
+----
+
+Introduction: 
+
+----
+
+Text: 
+
+----
+
+Details: 
+
+----
+
+Gallery:
+
+- 1980-couv.jpg
+- 1980-prog.jpg
+- 1980-preprog-couv.jpg
+
+----
+
+Year: 1980
+
+----
+
+Theme: 0lf6zjuw
+
+----
+
+Cover:
+
+- 1980-preprog-couv-rect-1024x.png

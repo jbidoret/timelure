@@ -1,0 +1,33 @@
+Title: Graphisme et musique
+
+----
+
+Introduction: 
+
+----
+
+Text: 
+
+----
+
+Details: 
+
+----
+
+Gallery:
+
+- 1985-prog-couv.jpg
+- 1985-prog-lun-mar-mer.jpg
+- 1985-prog-jeu-ven-sam.jpg
+
+----
+
+Year: 1985
+
+----
+
+Theme: 0lf6zjuw
+
+----
+
+Cover: - 1985-prog-couv-rect.jpg

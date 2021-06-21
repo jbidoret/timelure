@@ -1,0 +1,36 @@
+Title: Pierre Bézier
+
+----
+
+Introduction: En 1962, Pierre Bézier est engagé chez Renault et finalise une manière originale de transmettre la description d'une courbe à une machine numérique : cela donnera de jolie carrosseries rondes, et surtout inspirera le Californien  John Warnock, futur fondateur d'Adobe, pour la création de fontes numériques en Postscript.
+
+----
+
+Text: 
+
+----
+
+Details:
+
+## En savoir plus
+(link: https://fr.wikipedia.org/wiki/Pierre_B%C3%A9zier text: Pierre Bézier > wikipédia)
+
+----
+
+Gallery:
+
+- bezier1958.jpg
+
+----
+
+Year: 1962
+
+----
+
+Theme: ap0c95mx
+
+----
+
+Cover:
+
+- bezier1958.jpg

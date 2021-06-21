@@ -1,0 +1,42 @@
+Title: Programme 69
+
+----
+
+Introduction: 
+
+----
+
+Text: 
+
+----
+
+Details: 
+
+----
+
+Gallery:
+
+- 1969-prog-couv.jpg
+- 1969-prog-couv2.jpg
+- 1969-prog-1.jpg
+- 1969-prog-7.jpg
+- 1969-prog-8.jpg
+- 1969-prog-2.jpg
+- 1969-prog-3.jpg
+- 1969-prog-4.jpg
+- 1969-prog-5.jpg
+- 1969-prog-6.jpg
+
+----
+
+Year: 1969
+
+----
+
+Theme: 0lf6zjuw
+
+----
+
+Cover:
+
+- 1969-prog-couv-rect.png

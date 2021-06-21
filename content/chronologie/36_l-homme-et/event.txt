@@ -1,0 +1,34 @@
+Title: L'homme et...
+
+----
+
+Introduction: 
+
+----
+
+Text: 
+
+----
+
+Details: 
+
+----
+
+Gallery:
+
+- 1981-prog-couv.jpg
+- 1981-prog.jpg
+
+----
+
+Year: 1981
+
+----
+
+Theme: 0lf6zjuw
+
+----
+
+Cover:
+
+- 1981-prog-couv-rect.jpg

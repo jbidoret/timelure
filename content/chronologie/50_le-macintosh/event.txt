@@ -1,0 +1,33 @@
+Title: Le macintosh
+
+----
+
+Introduction: En 1984, le Macintosh popularise la souris, l'écran géré en mode pixels, et stimule la création de logiciels graphiques.
+
+----
+
+Text: Avec son processeur en 8 bits, le Macintosh permet de coder 256 caractères, le double d'un PC, et ouvre la voie à l'édition. Avec son écran en mode pixels et sa souris, il donne des idées à des créateurs de logiciels graphiques, même si sa première version peine à gérer tous ces pixels et y consacre 80% de son énergie. Avec la loi de Moore, en deux ans sa puissance double et au bout de 4 ans, il s'en sort très bien.
+
+----
+
+Details: https://fr.wikipedia.org/wiki/Macintosh
+
+----
+
+Gallery:
+
+- 1984-le-macintosh-1459346102.jpg
+
+----
+
+Year: 1984
+
+----
+
+Theme: ap0c95mx
+
+----
+
+Cover:
+
+- 1984-le-macintosh-1459346102.png

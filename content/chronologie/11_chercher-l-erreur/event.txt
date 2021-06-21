@@ -1,0 +1,113 @@
+Title: Chercher l’erreur
+
+----
+
+Introduction: **Égarements et odyssées graphiques**
+
+----
+
+Text:
+
+De la simple bourde à la faute en passant par la coquille, l’erreur peut être de jeunesse, 404, de justice, voire fatale. Au fil de nos corrections, ctrl+Z, relectures et repentirs, elle s’efface devant l’ardeur avec laquelle nous la chassons. Cherchez l’erreur et vous trouverez bavure, bug, impair, défaut, illusion, mais aussi de sympathiques maladresses. Cultivez l’imperfection et vous courez à la rencontre de perdants magnifiques, d’anti-héros édifiants, d’imperturbables et dignes mordus de poussière.
+Et pourtant, l’erreur révèle aussi les failles d’un système que l’on croyait trop parfait. Elle nous renvoie à nos limites, défie notre imagination, nous met face à l’imprévu et force notre créativité. Cette déviance parfois infime, toujours déroutante, nous bouscule hors des sentiers battus. On tombe, on s’en étonne, on en rit, ou bien on s’effraie du chaos qui menace.
+Le design graphique et la typographie se nourrissent d’avaries et de soubresauts, qui sont autant d’invitations à une réinvention permanente.
+
+----
+
+Details:
+
+### Version en ligne
+
+(link: https://delure.org/les-rencontres/rencontres-precedentes/rencontres-2016 text: delure.org/chercher-l-erreur)
+
+----
+
+Gallery:
+
+- lure_2016_programme_page_01.jpg
+- lure_2016_programme_page_02.jpg
+- lure_2016_programme_page_03.jpg
+- lure_2016_programme_page_05.jpg
+- lure_2016_programme_page_06.jpg
+- lure_2016_programme_page_07.jpg
+- lure_2016_programme_page_08.jpg
+- lure_2016_programme_page_09.jpg
+- lure_2016_programme_page_10.jpg
+- lure_2016_programme_page_11.jpg
+- lure_2016_programme_page_12.jpg
+- lure_2016_programme_page_13.jpg
+- lure_2016_programme_page_14.jpg
+- lure_2016_programme_page_15.jpg
+- lure_2016_programme_page_16.jpg
+- lure_2016_programme_page_17.jpg
+- lure_2016_programme_page_18.jpg
+- lure_2016_programme_page_19.jpg
+- lure_2016_programme_page_20.jpg
+- lure_2016_programme_page_21.jpg
+- lure_2016_programme_page_22.jpg
+- lure_2016_programme_page_23.jpg
+- lure_2016_programme_page_24.jpg
+- lure_2016_programme_page_25.jpg
+- lure_2016_programme_page_26.jpg
+- lure_2016_programme_page_27.jpg
+- lure_2016_programme_page_28.jpg
+- lure_2016_programme_page_29.jpg
+- lure_2016_programme_page_30.jpg
+- lure_2016_programme_page_31.jpg
+- lure_2016_programme_page_32.jpg
+- lure_2016_programme_page_33.jpg
+- lure_2016_programme_page_34.jpg
+- lure_2016_programme_page_35.jpg
+- lure_2016_programme_page_37.jpg
+- lure_2016_programme_page_36.jpg
+- lure_2016_programme_page_38.jpg
+- lure_2016_programme_page_39.jpg
+- lure_2016_programme_page_40.jpg
+- lure_2016_programme_page_41.jpg
+- lure_2016_programme_page_42.jpg
+- lure_2016_programme_page_43.jpg
+- lure_2016_programme_page_45.jpg
+- lure_2016_programme_page_46.jpg
+- lure_2016_programme_page_47.jpg
+- lure_2016_programme_page_48.jpg
+- lure_2016_programme_page_49.jpg
+- lure_2016_programme_page_50.jpg
+- lure_2016_programme_page_51.jpg
+- lure_2016_programme_page_52.jpg
+- lure_2016_programme_page_53.jpg
+- lure_2016_programme_page_54.jpg
+- lure_2016_programme_page_55.jpg
+- lure_2016_programme_page_56.jpg
+- lure_2016_programme_page_57.jpg
+- lure_2016_programme_page_58.jpg
+- lure_2016_programme_page_59.jpg
+- lure_2016_programme_page_60.jpg
+- lure_2016_programme_page_61.jpg
+- lure_2016_programme_page_62.jpg
+- lure_2016_programme_page_65.jpg
+- lure_2016_programme_page_63.jpg
+- lure_2016_programme_page_64.jpg
+- lure_2016_programme_page_66.jpg
+- lure_2016_programme_page_67.jpg
+- lure_2016_programme_page_68.jpg
+- lure_2016_programme_page_69.jpg
+- lure_2016_programme_page_70.jpg
+- lure_2016_programme_page_71.jpg
+- lure_2016_programme_page_72.jpg
+- lure_2016_programme_page_73.jpg
+- lure_2016_programme_page_74.jpg
+- lure_2016_programme_page_75.jpg
+
+----
+
+Year: 2016
+
+----
+
+Theme: 0lf6zjuw
+
+----
+
+Cover:
+
+- 2015-visuel-rect.png

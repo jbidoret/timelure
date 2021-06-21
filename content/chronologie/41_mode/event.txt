@@ -1,0 +1,33 @@
+Title: La Mode
+
+----
+
+Introduction: 
+
+----
+
+Text: 
+
+----
+
+Details: 
+
+----
+
+Gallery:
+
+- 1988-prog-couv2.jpg
+- 1988-prog-intro.jpg
+- 1988-prog.jpg
+
+----
+
+Year: 1988
+
+----
+
+Theme: 0lf6zjuw
+
+----
+
+Cover: - 1988-prog-couv-rect-1024x.png

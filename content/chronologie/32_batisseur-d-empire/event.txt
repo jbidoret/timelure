@@ -1,0 +1,43 @@
+Title: Bâtisseurs d'Empire
+
+----
+
+Introduction: Mots et choses
+
+----
+
+Text: 
+
+----
+
+Details: 
+
+----
+
+Gallery:
+
+- 2004-carte-invit-couv.jpg
+- 2004-prog-synthese.jpg
+- 2004-prog-couv.jpg
+- 2004-prog-2.jpg
+- 2004-prog-4.jpg
+- 2004-prog-5.jpg
+- 2004-prog-6.jpg
+- 2004-prog-7.jpg
+- 2004-prog-8.jpg
+- 2004-prog-9.jpg
+- 2004-prog-10.jpg
+- 2004-prog-11.jpg
+- 2004-prog-12.jpg
+
+----
+
+Year: 2004
+
+----
+
+Theme: 0lf6zjuw
+
+----
+
+Cover: - 2004-carte-invit-rect.jpg

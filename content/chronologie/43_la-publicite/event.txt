@@ -1,0 +1,35 @@
+Title: La publicité
+
+----
+
+Introduction: 
+
+----
+
+Text: 
+
+----
+
+Details: 
+
+----
+
+Gallery:
+
+- 1987-prog-couv.jpg
+- 1987-prog-2.jpg
+- 1987-prog.jpg
+
+----
+
+Year: 1987
+
+----
+
+Theme: 0lf6zjuw
+
+----
+
+Cover:
+
+- 1981-prog-couv-rect-copie.jpg

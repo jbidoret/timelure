@@ -10,4 +10,4 @@ Introduction: Les évolutions des techniques dans le champ de l’édition, de l
 
 ----
 
-Color: #00abff
+Color: #2731a2

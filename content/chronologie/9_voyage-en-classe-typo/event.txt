@@ -1,0 +1,46 @@
+Title: Voyage en classe typo
+
+----
+
+Introduction: 
+
+----
+
+Text: 
+
+----
+
+Details: 
+
+----
+
+Gallery:
+
+- 2005-prog-couv.jpg
+- 2005-prog-synthese.jpg
+- 2005-prog-3.jpg
+- 2005-prog-4.jpg
+- 2005-prog-5.jpg
+- 2005-prog-6.jpg
+- 2005-prog-7.jpg
+- 2005-prog-8.jpg
+- 2005-prog-9.jpg
+- 2005-prog-10.jpg
+- 2005-prog-11.jpg
+- 2005-prog-12.jpg
+- 2005-prog-13.jpg
+- 2005-prog-14.jpg
+
+----
+
+Year: 2005
+
+----
+
+Theme: 0lf6zjuw
+
+----
+
+Cover:
+
+- 2005-voyage-600x429-q80.jpg

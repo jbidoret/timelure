@@ -1,0 +1,39 @@
+Title: (R)évolutions graphiques
+
+----
+
+Introduction: 
+
+----
+
+Text: 
+
+----
+
+Details: 
+
+----
+
+Gallery:
+
+- 1989-prog-couv.jpg
+- 1989-prog-lundi.jpg
+- 1989-prog-mardi.jpg
+- 1989-prog-mercredi-copie.jpg
+- 1989-prog-jeudi.jpg
+- 1989-prog-vendredi.jpg
+- 1989-carte-annonce.jpg
+
+----
+
+Year: 1989
+
+----
+
+Theme: 0lf6zjuw
+
+----
+
+Cover:
+
+- 1989-prog-couv-rect.jpg

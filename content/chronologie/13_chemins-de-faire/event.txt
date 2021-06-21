@@ -1,0 +1,49 @@
+Title: Chemins de faire
+
+----
+
+Introduction: Activer la page blanche
+
+----
+
+Text:
+
+La démultiplication des productions graphiques facilitée par les outils numériques donne l’illusion d’une instantanéité et tend à faire oublier que la forme n’est jamais que le «fond remontant à la surface».
+Plaçant l’idée avant le signe, le processus de création est une mécanique subtile, alliant le geste et l’esprit, et mettant le sens dessus-dessous. Difficile souvent de mettre des mots
+sur cette phase immergée du design. C’est pourtant ce qui permet d’exposer et de mieux valoriser des choix créatifs sans les imposer. C’est aussi une part essentielle de ce qui est à transmettre.
+
+----
+
+Details:
+
+### En avoir plus
+(link: https://delure.org/les-rencontres/rencontres-precedentes/rencontres-2014 text: delure.org/rencontres-2014)
+
+----
+
+Gallery:
+
+- 2014-prog-couv1.jpg
+- 2014-prog-intro.jpg
+- 2014-prog-1.jpg
+- 2014-prog-2.jpg
+- 2014-prog-3.jpg
+- 2014-prog-4.jpg
+- 2014-prog-5.jpg
+- 2014-prog-6.jpg
+- 2014-prog-7.jpg
+- 2014-prog-couv2.jpg
+
+----
+
+Year: 2014
+
+----
+
+Theme: 0lf6zjuw
+
+----
+
+Cover:
+
+- 2014-visuel-ouverture-rect-jaune.jpg

@@ -1,0 +1,42 @@
+Title: Typographier l'espace
+
+----
+
+Introduction: 
+
+----
+
+Text: 
+
+----
+
+Details: 
+
+----
+
+Gallery:
+
+- 2000-prog-couv.jpg
+- 2000-prog-synthese.jpg
+- 2000-prog-intro3.jpg
+- 2000-prog-intro2.jpg
+- 2000-prog-dim.jpg
+- 2000-prog-lundi-2.jpg
+- 2000-prog-lundi.jpg
+- 2000-prog-mercredi.jpg
+- 2000-prog-vend1.jpg
+- 2000-prog-vend2.jpg
+
+----
+
+Year: 2000
+
+----
+
+Theme: 0lf6zjuw
+
+----
+
+Cover:
+
+- 2000-prog-couv.jpg

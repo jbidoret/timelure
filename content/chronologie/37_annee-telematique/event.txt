@@ -1,0 +1,41 @@
+Title: Année télématique
+
+----
+
+Introduction: Et programme calligraphie
+
+----
+
+Text: 
+
+----
+
+Details: 
+
+----
+
+Gallery:
+
+- 1982-prog-couv.jpg
+- 1982-prog-intro-lundi.jpg
+- 1982-prog-mar-jeu-ven.jpg
+- 1982-prog-dos.jpg
+- 1982-besancon-prog-couv.jpg
+- 1982-besancon-prog-2.jpg
+- 1982-besancon-prog-3.jpg
+- 1982-couv-compte-rendu-2.jpg
+- 1982-couv-compte-rendu-3.jpg
+
+----
+
+Year: 1982
+
+----
+
+Theme: 0lf6zjuw
+
+----
+
+Cover:
+
+- 1982-prog-couv-recta.jpg

@@ -1,0 +1,60 @@
+Title: Tout ou rien
+
+----
+
+Introduction: Encyclopédie, universelle typographie
+
+----
+
+Text:
+
+Une semaine d’exploration des « ouvrages » les plus ambitieux que notre société a pu produire : lisibilité, accès à l’information, interfaces pour le papier ou les médias numériques, constitution des savoirs, rédaction collaborative, plaisir du regard et du feuilletage, enjeux sociétaux… cette source d’inspiration et de connaissance infinie que sont les encyclopédies peut fasciner, servir, tout simplement, ou amuser.
+Tout : en voulant contenir tous les savoirs du monde, ces livres-bibliothèques se révèlent fragiles et menacés d’obsolescence ou même de vanité. Rien ?
+
+----
+
+Details: 
+
+----
+
+Gallery:
+
+- 2007-prog-couv.jpg
+- 2007-prog-synthese.jpg
+- 2007-affiche-prog.jpg
+- 2007-affiche.jpg
+- lure_2007_programme_page_03.jpg
+- lure_2007_programme_page_10.jpg
+- lure_2007_programme_page_11.jpg
+- lure_2007_programme_page_12.jpg
+- lure_2007_programme_page_06.jpg
+- lure_2007_programme_page_13.jpg
+- lure_2007_programme_page_15.jpg
+- lure_2007_programme_page_14.jpg
+- lure_2007_programme_page_05.jpg
+- lure_2007_programme_page_16.jpg
+- lure_2007_programme_page_17.jpg
+- lure_2007_programme_page_19.jpg
+- lure_2007_programme_page_21.jpg
+- lure_2007_programme_page_20.jpg
+- lure_2007_programme_page_07.jpg
+- lure_2007_programme_page_22.jpg
+- lure_2007_programme_page_08.jpg
+- lure_2007_programme_page_09.jpg
+- lure_2007_programme_page_23.jpg
+- lure_2007_programme_page_18.jpg
+- lure_2007_programme_page_02.jpg
+
+----
+
+Year: 2007
+
+----
+
+Theme: 0lf6zjuw
+
+----
+
+Cover:
+
+- 2007-affiche.jpg

@@ -1,0 +1,9 @@
+Alt: 
+
+----
+
+Caption: Conception graphique : Cheval vert
+
+----
+
+Layout: one_of_three
