@@ -325,7 +325,13 @@ p, ul, ol, blockquote {
   max-width: 35em; }
 
 :root {
-  --background-color: #eee; }
+  --background-color: #eee;
+  --padding: 1em;
+  --margin: 2em; }
+  @media (max-width: 800px) {
+    :root {
+      --padding: 1em;
+      --margin: 1em; } }
 
 *, *::before, *::after {
   box-sizing: border-box; }
@@ -349,16 +355,20 @@ html {
     scroll-behavior: auto; } }
 
 #home {
-  padding: 1em;
-  margin: 2em;
   --year-width: 4rem;
   --line-offset: 1rem;
   --event-padding: 1rem;
   --grid-gap: 2rem;
+  margin: var(--margin);
+  padding: var(--padding);
   padding-left: var(--year-width); }
+  @media (max-width: 800px) {
+    #home {
+      margin: 0;
+      padding-left: var(--padding); } }
 
 #years-nav {
-  padding: 2em;
+  padding: var(--padding);
   border-bottom: 1px solid #000; }
   #years-nav ul {
     list-style-type: none;
@@ -367,7 +377,10 @@ html {
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
-    display: flex; }
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap; }
   #years-nav li {
     margin-right: 1em; }
   #years-nav a {
@@ -380,12 +393,18 @@ html {
   display: grid;
   grid-template-columns: 2fr 3fr 2fr;
   margin-bottom: 2em; }
+  @media (max-width: 800px) {
+    #home header {
+      grid-template-columns: 1fr; } }
   #home header h2 {
     margin: 0;
     color: var(--color);
     line-height: 1.2; }
   #home header > div {
     padding-left: calc( var(--line-offset) + var(--event-padding)); }
+    @media (max-width: 800px) {
+      #home header > div {
+        padding-left: 0; } }
     #home header > div p {
       margin-top: .25em; }
 
@@ -397,7 +416,7 @@ html {
   grid-template-columns: 2fr 3fr 2fr;
   grid-auto-flow: dense;
   grid-gap: 0 var(--grid-gap); }
-  @media (max-width: 600px) {
+  @media (max-width: 800px) {
     .year {
       grid-template-columns: 1fr; } }
   .year span {
@@ -422,6 +441,9 @@ html {
     padding: 0 1em 0 0;
     width: var(--year-width);
     left: calc(-1 * var(--year-width)); }
+    @media (max-width: 800px) {
+      .year > h2 {
+        left: 0; } }
 
 .events.edition-et-culture-graphique {
   grid-column: 1; }
@@ -432,9 +454,16 @@ html {
 .events.typographie-et-technique {
   grid-column: 3; }
 
+@media (max-width: 800px) {
+  .events {
+    grid-column: 1 !important; } }
+
 .timeline-event {
   padding: var(--event-padding) 0 var(--event-padding) calc( var(--line-offset) + var(--event-padding));
   position: relative; }
+  @media (max-width: 800px) {
+    .timeline-event {
+      padding-left: 0; } }
   .timeline-event h3 {
     color: var(--color, currentColor);
     margin-bottom: .25em; }
@@ -458,6 +487,9 @@ html {
     transform: translateX(-50%);
     background: var(--color, red);
     border: 3px solid var(--background-color); }
+    @media (max-width: 800px) {
+      .timeline-event::before {
+        display: none; } }
   .timeline-event :first-child {
     margin-top: 0; }
   .timeline-event .introduction {
@@ -527,7 +559,7 @@ body {
   background: var(--background-color); }
 
 #header {
-  padding: 40px;
+  padding: var(--padding);
   border-bottom: 1px solid #000; }
   #header * {
     margin: 0; }

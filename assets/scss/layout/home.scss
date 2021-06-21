@@ -1,21 +1,26 @@
 #home {
-  padding: 1em;
-  margin: 2em;
   --year-width: 4rem;
   --line-offset: 1rem;
   --event-padding: 1rem;
   --grid-gap: 2rem;
+  margin: var(--margin);
+  padding: var(--padding);
   padding-left: var(--year-width);
+  @media(max-width:800px){
+    margin: 0;
+    padding-left: var(--padding);
+  }
 }
 
 #years-nav {
-  padding: 2em;
+  padding: var(--padding);
   border-bottom: 1px solid #000;  
   ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     display: flex;
+    flex-wrap: wrap;
   }
   li { margin-right: 1em;}
   a { border-bottom: 1px solid transparent; &:hover { border-color: #000;}}
@@ -26,9 +31,15 @@
   display: grid;
   grid-template-columns: 2fr 3fr 2fr ;
   margin-bottom:  2em;
+  @media (max-width:800px){
+    grid-template-columns: 1fr;
+  }
   h2 { margin: 0; color: var(--color); line-height: 1.2;}
   > div {
     padding-left: calc( var(--line-offset) + var(--event-padding));
+    @media (max-width:800px){
+      padding-left: 0;
+    }
     p {margin-top: .25em;}
   }
 }
@@ -41,7 +52,7 @@
   grid-template-columns: 2fr 3fr 2fr ;
   grid-auto-flow: dense;
   grid-gap: 0 var(--grid-gap);
-  @media (max-width:600px){
+  @media (max-width:800px){
     grid-template-columns: 1fr;
   }
   
@@ -65,6 +76,9 @@
     padding: 0 1em 0 0;
     width: var(--year-width);
     left: calc(-1 * var(--year-width));
+    @media(max-width:800px){
+      left: 0;
+    }
   }
 }
 .events {
@@ -77,10 +91,16 @@
   &.typographie-et-technique {
     grid-column: 3;
   }
+  @media (max-width:800px){
+    grid-column: 1 !important;
+  }
 }
 
 .timeline-event {
   padding: var(--event-padding) 0 var(--event-padding) calc( var(--line-offset) + var(--event-padding));
+  @media (max-width:800px){
+    padding-left: 0;
+  }
   position: relative;
   h3 {
     // font-weight: bold;
@@ -108,6 +128,9 @@
     transform: translateX(-50%);
     background: var(--color, red);
     border: 3px solid var(--background-color);
+    @media (max-width:800px){
+      display: none;
+    }
   }
   :first-child {margin-top: 0;}
   .introduction {
