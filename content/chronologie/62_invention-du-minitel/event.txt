@@ -1,0 +1,34 @@
+Title: Invention du minitel
+
+----
+
+Introduction: 
+
+----
+
+Text: Cette technologie de communication a été créée par le ministère des Postes et Télécommunications et utilisée en France des années 1980 aux années 2000.
+
+----
+
+Details:
+
+## En savoir plus
+https://fr.wikipedia.org/wiki/Minitel
+
+----
+
+Gallery: 
+
+----
+
+Year: 1982
+
+----
+
+Theme: ap0c95mx
+
+----
+
+Cover:
+
+- minitel-copie.png

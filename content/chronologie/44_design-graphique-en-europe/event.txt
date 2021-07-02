@@ -1,0 +1,39 @@
+Title: Designs graphiques en Europe
+
+----
+
+Introduction: 
+
+----
+
+Text: 
+
+----
+
+Details: 
+
+----
+
+Gallery:
+
+- 1992-prog-couv.jpg
+- 1992-prog-1.jpg
+- 1992-prog-2.jpg
+- 1992-prog-3.jpg
+- 1992-prog-4.jpg
+- 1992-prog-5.jpg
+- 1992-prog-6.jpg
+
+----
+
+Year: 1992
+
+----
+
+Theme: 0lf6zjuw
+
+----
+
+Cover:
+
+- 40-ans-lure.jpg

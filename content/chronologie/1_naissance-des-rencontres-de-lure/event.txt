@@ -2,19 +2,49 @@ Title: Naissance des Rencontres de Lure
 
 ----
 
-Introduction: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.
+Introduction:
+
+"Matinée héroïque où, du fait de la grève de la S.N.C.F., nous n'étions que trois : Garcia, Ranc et moi, auxquels vint se joindre, sur le tard, un quatrième : Gérard Blanchard."
+Maximilien Vox 1953
 
 ----
 
-Text: Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit.
+Text:
+
+Maximilien Vox, frère de Théodore Monod, raconte sa découverte de Lurs alors que le village, sans eau courante, est presque abandonné.
+Enthousiaste dans l’instant, il aurait troqué l’âne et la carriole qui les avait conduits au village contre l’une des maisons les moins en ruine pour l’offrir à son épouse...
+En faisant étape chez Blaise Cendrars, il y revient en 1952 avec Jean Giono, et Jean Garcia, typographe, enseignant, acteur, qu’il décrit comme un gitan doué pour toutes les formes d’expression. Puis, ils invitent Robert Ranc, directeur de l’école Estienne. Tous quatre sont considérés comme fondateurs de « L’École de Lure ».
+Sous le titre « vers d’autres clartés » ou « manifeste de l’An 1 » émise par la « Retraite graphique de Haute Provence », une invitation à rejoindre Vox et ses complices à Lurs est adressée pour l’été 1953 à toutes les connaissances professionnelles et amicales. Les amis des amis, et leurs étudiants éventuels découvriront et se retrouveront fidèlement dans le village. Bientôt nombre d’entre eux achèteront des maisons, et bâtiront même un théâtre de plein air, inspiré de l’antique, afin d’organiser des représentations théâtrales.
+
+En 1957 la forme administrative d’une association selon la loi de 1901 est retenue pour organiser le groupe, l’activité et l’intendance... « Les Compagnons de Lure » forment une entité distincte et autonome.
+
+Une grange vide acquise par Maximilien Vox est sommairement aménagée en salle de conférence puis renommée solennellement « la Chancellerie » ; c’est le lieu où se retrouveront chaque été les professionnels des métiers de l’imprimerie, de plus en plus nombreux, posant des problèmes d’organisation dans le petit village ! Le petit bistrot du père Moulet deviendra en trois générations un vrai restaurant où François Grisolle accueillera la centaine de participants pendant des années.
+
+Les « piliers » des débuts sont Charles Peignot, Gérard Blanchard venu à 18 ans, les Italiens Aldo Novarèse et Cesare Maletto, éditeur, les Belges Michel Olyff du groupe Cobra, Fernand Baudin et De Roeck, l’Anglais John Dreyfus ; l’historien René Ponot, Ladislas Mandel, puis Christian Delorme, Yves Perrousseaux, et bien d’autres...
+
+Tous ceux qui ont eu un rôle dans la création de caractères ou de livres sont passés par Lurs : José Mendoza, Alessandrini, Roger Excoffon, Paul Gabor, Albert Hollenstein, Adrian Frutiger, Marcel Jacno, Massin, Mediavilla, José Mendoza, Albert Plécy, Herman Zapf, Peter Knapp ou bien des éditeurs tels que François Richaudeau, Hubert Nyssen, ou Claude Tchou.
+
+Ils viendront et reviendront évoquer les mutations de leurs activités dans le contexte de l’apparition de la photocomposition et la naissance des médias audiovisuels, rejoints par des créateurs de tous domaines : Alexeïeff, François Cheng, Jean Dieuzaide, Jean Guitton, Ionesco, Henri Laborit, Chris Marker, Georges Mathieu, Janine Niepce, Savignac, Pierre Schaeffer, Vasarely...
+
+Vox et ses amis perçoivent à la fois la permanence de l’expression graphique et la mort de Gutenberg. C’est à Lurs qu’ils mettent au point la classification des caractères nommée Vox-ATypI.
+L’Association Typographique Internationale a été créée par Charles Peignot en 1957. Les critères d’évaluation de lisibilité sont formulés et réajustés sans cesse, parallèlement aux débats sur l’évangélisation des robots...
+
+Dès les années 1970, Gérard Blanchard, graphiste, mais surtout remarquable chercheur, fait le constat de la naissance multiforme d’une expression « typo-audio-scripto-visuelle ». Jusqu’à son décès en 1998, ses réflexions et son approche pluridisciplinaire vont accompagner l’évolution de l’association et son ouverture aux nouvelles technologies et pratiques professionnelles. Son enthousiasme et le foisonnement de ses interventions, soutenues par le président Marc Combier, ont marqué une génération de Lursiens. En juillet 1983 l’association adopte son nom actuel « Rencontres internationales de Lure ». La naissance de l’informatique, puis l’ouverture d’internet transforment profondément les métiers de la création graphique.
 
 ----
 
-Details: ### Voir aussi
+Details:
+
+Premier manifeste : *"Notre appel est limité. Il ne s'adresse qu'à un nombre restreint d'hommes, de capacité déjà éprouvée, dans quelque branche que ce soit, de loisirs et de moyens suffisants pour participer pleinement l'expérience de Lurs et en tirer le fruit. De santé et d'humeur, par surcroit, s'accommoder de l'existence communautaire pour le logement, la table, le travail. Ayant le goût du plein-air, le sens de l'équipe, la passion des choses spirituelles"*. Maximilien Vox. 1951
+
+### Voir aussi
 
 ----
 
-Gallery: 
+Gallery:
+
+- 1953_le_serment_de_lure-1.jpg
+- 1953_le_serment_de_lure-2.jpg
 
 ----
 

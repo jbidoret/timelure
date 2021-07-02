@@ -1,0 +1,38 @@
+Title: Faisons le point
+
+----
+
+Introduction: 
+
+----
+
+Text: 
+
+----
+
+Details: 
+
+----
+
+Gallery:
+
+- 1994-prog-couv.jpg
+- 1994-prog-lundi.jpg
+- 1994-prog-mardi.jpg
+- 1994-prog-mercredi.jpg
+- 1994-prog-jeudi.jpg
+- 1994-prog-vendredi.jpg
+
+----
+
+Year: 1994
+
+----
+
+Theme: 0lf6zjuw
+
+----
+
+Cover:
+
+- 1994-prog-couv.jpg

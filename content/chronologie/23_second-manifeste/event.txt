@@ -1,0 +1,42 @@
+Title: Second manifeste
+
+----
+
+Introduction: 
+
+----
+
+Text: Second manifeste : "*Pour une graphie latine*"
+
+----
+
+Details: 
+
+----
+
+Gallery:
+
+- >
+  1954_vox_plaquette_pour_une_graphie_latine_ocr_r-1.jpg
+- >
+  1954_vox_plaquette_pour_une_graphie_latine_2.jpg
+- >
+  1954_vox_plaquette_pour_une_graphie_latine_3.jpg
+- >
+  1954_vox_plaquette_pour_une_graphie_latine_4.jpg
+- >
+  1954_vox_plaquette_pour_une_graphie_latine_5.jpg
+
+----
+
+Year: 1954
+
+----
+
+Theme: 0lf6zjuw
+
+----
+
+Cover:
+
+- 1953-manifeste_vignette-grande.jpg

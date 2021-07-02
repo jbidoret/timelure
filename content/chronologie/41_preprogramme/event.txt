@@ -1,0 +1,35 @@
+Title: Préprogramme
+
+----
+
+Introduction: 
+
+----
+
+Text: Ce tapuscrit est le seul programme que nous ayons de la session.
+
+----
+
+Details: 
+
+----
+
+Gallery:
+
+- 1984-preprog-couv-2.jpg
+- 1984-preprog-couv.jpg
+- 1984-preprog-calligraphie.jpg
+
+----
+
+Year: 1984
+
+----
+
+Theme: 0lf6zjuw
+
+----
+
+Cover:
+
+- 1984vignette.png

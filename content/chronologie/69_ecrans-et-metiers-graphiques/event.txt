@@ -1,0 +1,38 @@
+Title: Ecrans et métiers graphiques
+
+----
+
+Introduction: 
+
+----
+
+Text: 
+
+----
+
+Details: 
+
+----
+
+Gallery:
+
+- 1990-prog-couv.jpg
+- 1990-pro1.jpg
+- 1990-prog2.jpg
+- 1990-prog3.jpg
+- 1990-prog4.jpg
+- 1990-prog5.jpg
+- 1990-prog7.jpg
+- 1990-prog8.jpg
+
+----
+
+Year: 1990
+
+----
+
+Theme: 0lf6zjuw
+
+----
+
+Cover: 

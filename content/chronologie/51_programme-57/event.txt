@@ -1,0 +1,53 @@
+Title: L'an V
+
+----
+
+Introduction: 
+
+----
+
+Text:
+
+Naissance de l'A.TYP.I. | *Charles Peignot*
+Conspectus Typorum  | *John Dreyfus*
+Ecole de Lausanne | *Robert Ranc*
+Ces MM. de Montgolfier | *Xavier Frachon*
+Recherches dans les industries graphiques |  *Robert Ranc*
+Où en est le photo-livre ?  | *Albert Plécy*
+De l'image à l'idée | *Marcel Hignette*
+Parole aux jeunes | *Marc-André Pampuzac*
+La photogravure | *Pierre Bertrand et Paul Peltier*
+
+----
+
+Details: 
+
+----
+
+Gallery:
+
+- 1957_salutan-1.jpg
+- 1957_salutan-12.jpg
+- 1957_salutan-2.jpg
+- 1957_salutan-4b.jpg
+- 1957_salutan-4.jpg
+- 1957_salutan-3.jpg
+- 1957_salutan-5.jpg
+- 1957_salutan-6.jpg
+- 1957_salutan-8.jpg
+- 1957_salutan-9.jpg
+- 1957_salutan-10.jpg
+- 1957_salutan-4d.jpg
+- 1957_salutan-4c.jpg
+
+----
+
+Year: 1957
+
+----
+
+Theme: 0lf6zjuw
+
+----
+
+Cover: - 1957_vignette.jpg

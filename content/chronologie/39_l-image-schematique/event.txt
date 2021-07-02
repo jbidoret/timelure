@@ -1,0 +1,34 @@
+Title: L'image schématique
+
+----
+
+Introduction: 
+
+----
+
+Text: 
+
+----
+
+Details: 
+
+----
+
+Gallery:
+
+- 1983-progcouv.jpg
+- 1983-prog1.jpg
+
+----
+
+Year: 1983
+
+----
+
+Theme: 0lf6zjuw
+
+----
+
+Cover:
+
+- 1983-progcouv.jpg

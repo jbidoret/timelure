@@ -21,9 +21,13 @@ Gallery:
 - 2000-prog-intro3.jpg
 - 2000-prog-intro2.jpg
 - 2000-prog-dim.jpg
-- 2000-prog-lundi-2.jpg
 - 2000-prog-lundi.jpg
+- 2000-prog-lundi-2.jpg
+- 2000-prog-mar1.jpg
+- 2000-prog-mar2.jpg
 - 2000-prog-mercredi.jpg
+- 2000-prog-jeu1.jpg
+- 2000-prog-jeu2.jpg
 - 2000-prog-vend1.jpg
 - 2000-prog-vend2.jpg
 
