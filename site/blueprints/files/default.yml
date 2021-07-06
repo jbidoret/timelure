@@ -1,16 +1,19 @@
-title: Default file
+title: Fichier
 
 columns:
   - width: 2/3
     fields:
       alt:
+        label: Alternative textuelle
         type: text
       caption:
+        label: Légende
         type: textarea
   - width: 1/3
     fields: 
       layout:
         type: select
+        label: Mise en page
         options:
           one_of_three: 1/3
           two_of_three: 2/3

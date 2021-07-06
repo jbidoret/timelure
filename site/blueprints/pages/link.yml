@@ -1,4 +1,4 @@
-title: Évènement
+title: Lien
 
 
 columns:
@@ -7,26 +7,13 @@ columns:
       data:
         type: fields   
         fields:
+          link:
+            label: Lien
+            type: url
           introduction:
             label: Introduction (accueil)
             type: markdown
             help: Ne s’affiche que sur la page d’accueil
-          introduction_text:
-            label: Introduction (évènement)
-            type: markdown
-            help: Ne s’affiche que sur la page de l’évènement
-          text:
-            label: Texte
-            type: markdown
-          details:
-            label: Détails
-            type: markdown
-          gallery:
-            label: Galerie
-            type: files
-            label: Images
-            info: "{{file.layout}}"
-            layout: cards
   - width: 1/3
     sections:
       fields:
@@ -50,9 +37,6 @@ columns:
               fetch: site.find("themes").children.listed
               text: "{{ page.title }}"
               value: "{{ page.AUTOID }}"
-          people:
-            type: tags
-            label: Intervenants
           cover:
             type: files
             multiple: false

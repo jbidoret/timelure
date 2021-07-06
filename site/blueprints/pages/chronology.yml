@@ -11,7 +11,9 @@ sections:
   drafts:
     headline: Brouillons
     type: pages
-    template: event
+    templates: 
+      - event
+      - link
     status: drafts
     sortBy: year asc
   listed:
@@ -21,6 +23,7 @@ sections:
     parent: site.find("chronologie")
     templates: 
       - event
+      - link
     status: listed
     sortBy: year asc
     info: "{{page.year}} – {{page.theme.fromAutoID.title}}"
