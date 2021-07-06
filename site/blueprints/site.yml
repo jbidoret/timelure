@@ -7,14 +7,23 @@ tabs:
   events:
     label: Évènements
     sections:
-      events:
+      drafts:
+        headline: Brouillons
+        type: pages
+        templates: 
+          - event
+          - link
+        status: drafts
+        sortBy: year asc
+      listed:
         headline: Évènements
         type: pagetable
         limit: 25
         parent: site.find("chronologie")
         templates: 
           - event
-        status: all
+          - link
+        status: listed
         sortBy: year asc
         info: "{{page.year}} – {{page.theme.fromAutoID.title}}"
         columns:
@@ -36,6 +45,7 @@ tabs:
             type: text
             width: 1/3
             searchable: true
+      
     
   years:
     label: Années
