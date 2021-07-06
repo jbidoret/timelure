@@ -1,14 +1,14 @@
 <?php snippet('header') ?>
-  <main>
+  <main  data-year="<?= $page->year()->value() ?>" data-slug="<?= $page->slug() ?>">
     <article class="event-detail <?= $page->theme()->fromAutoID()->slug() ?>">
       <header>
         <h2><?= $page->year()->html() ?></h2>
         <h1><?= $page->title()->html() ?></h1>
       </header>
       <div class="event-text">
-        <?php if($page->introduction()->isNotEmpty()) :?>
+        <?php if($page->introduction_detail()->isNotEmpty()) :?>
           <div class="introduction">
-            <?= $page->introduction()->kt()?>
+            <?= $page->introduction_detail()->kt()?>
           </div>
         <?php endif ?>
 
