@@ -309,6 +309,8 @@ template {
 :root {
   --basesize: 1.05rem;
   --basefamily:  'ao', Georgia, serif;
+  --basesize: 1.15rem;
+  --basefamily:  Georgia, serif;
   --line-height: 1.4;
   --text-color: rgba(0,0,0,.75); }
 
