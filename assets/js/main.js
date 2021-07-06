@@ -28,13 +28,21 @@ var ajaxRequest = new (function () {
         oPageInfo.title = doc.querySelector('title').textContent;
         var year = fragment.dataset.year;
 
-        //
+        // title
         document.title = oPageInfo.title;
         
+        // update
         if (bUpdateURL) {
-          console.log(oPageInfo, oPageInfo.title, oPageInfo.url);
           history.pushState(oPageInfo, oPageInfo.title, oPageInfo.url);
           bUpdateURL = false;
+        }
+
+        // close previous
+        var previous = document.querySelector('.year-content.visible');
+        if(previous){
+          previous.classList.remove('visible');
+          var child = previous.querySelector(':first-child');
+          previous.removeChild(child);
         }
         
         // append
