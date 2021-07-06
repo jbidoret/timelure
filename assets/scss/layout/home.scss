@@ -20,17 +20,17 @@
 #annee-2000,
 #annee-2010,
 #annee-2020 {
-  > h2{ font-weight: bold; font-size: 150%; position: relative; top: -.4em; }
+  > h2{ font-weight: bold; font-size: 150%; position: relative; top: -.6em; }
 }
 
-@for $i from 1 through 68 {
-  section:nth-of-type(#{$i}) {
-    img{
-      filter: grayscale(1 - $i / 68);
-    }
-    // background-color: lighten($base-color, $i * 5%);
-  }
-}
+// @for $i from 1 through 68 {
+//   section:nth-of-type(#{$i}) {
+//     img{
+//       filter: grayscale(1 - $i / 68);
+//     }
+//     // background-color: lighten($base-color, $i * 5%);
+//   }
+// }
 
 
 #home > header {
@@ -51,7 +51,8 @@
   > div {
     padding-left: calc( var(--line-offset) + var(--event-padding));
     &.edition-et-culture-graphique {
-      text-align: right;;
+      text-align: right;
+      @media(max-width:800px){text-align: left;}
     }
     @media (max-width:800px){
       padding-left: 0;
@@ -171,5 +172,10 @@
 .event-cover {
   margin: 0;
   padding: 0;
-  img {display: block;}
+  img {
+    display: block;
+    filter: grayscale(1);
+    &:hover { filter: grayscale(0);}
+
+  }
 }
