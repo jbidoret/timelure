@@ -1,0 +1,41 @@
+
+
+@font-face {
+  font-family: 'ao';
+  src: url('AntiqueOliveStd-Roman.woff2') format('woff2'),
+      url('AntiqueOliveStd-Roman.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ao';
+  src: url('AntiqueOliveStd-Italic.woff2') format('woff2'),
+      url('AntiqueOliveStd-Italic.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+}
+
+
+@font-face {
+  font-family: 'ao';
+  src: url('AntiqueOliveStd-Bold.woff2') format('woff2'),
+      url('AntiqueOliveStd-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ao';
+  src: url('AntiqueOliveStd-Nord.woff2') format('woff2'),
+      url('AntiqueOliveStd-Nord.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'ao';
+  src: url('AntiqueOliveStd-NordItalic.woff2') format('woff2'),
+      url('AntiqueOliveStd-NordItalic.woff') format('woff');
+  font-weight: 900;
+  font-style: italic;
+}

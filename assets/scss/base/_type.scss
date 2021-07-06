@@ -1,22 +1,28 @@
 //* fonts
 // @import "../fonts/FontFamily/FontName.css";
+
+@import "../fonts/ao/ao.css";
+
 :root{
-  --basesize: 1.15rem;
-  --basefamily:   Georgia, serif
+  --basesize: 1.05rem;
+  --basefamily:  'ao', Georgia, serif;
+  --line-height: 1.4;
+  --text-color: rgba(0,0,0,.75);
 }
 
 
 body{
   font-family: var(--basefamily); 
   font-size: var(--basesize);
+  color: var(--text-color);
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  line-height: 1.4;  
+  line-height: var(--line-height);  
 }
 
 h1, h2, h3 { font-weight: 400;}
 
 p, ul, ol, blockquote {
-  max-width: 35em;
+  max-width: 75ch;
 }

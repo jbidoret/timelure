@@ -3,7 +3,7 @@
   --line-offset: 1rem;
   --event-padding: 1rem;
   --grid-gap: 2rem;
-  margin: var(--margin);
+  margin: var(--padding);
   padding: var(--padding);
   padding-left: var(--year-width);
   @media(max-width:800px){
@@ -12,35 +12,51 @@
   }
 }
 
-#years-nav {
-  padding: var(--padding);
-  border-bottom: 1px solid #000;  
-  ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    flex-wrap: wrap;
-  }
-  li { margin-right: 1em;}
-  a { border-bottom: 1px solid transparent; &:hover { border-color: #000;}}
+
+#annee-1960,
+#annee-1970,
+#annee-1980,
+#annee-1990,
+#annee-2000,
+#annee-2010,
+#annee-2020 {
+  > h2{ font-weight: bold; font-size: 150%; position: relative; top: -.4em; }
 }
 
-#home header {
+@for $i from 1 through 68 {
+  section:nth-of-type(#{$i}) {
+    img{
+      filter: grayscale(1 - $i / 68);
+    }
+    // background-color: lighten($base-color, $i * 5%);
+  }
+}
+
+
+#home > header {
   grid-gap: 0 var(--grid-gap);
   display: grid;
   grid-template-columns: 2fr 3fr 2fr ;
-  margin-bottom:  2em;
+  margin: 2em 0;
   @media (max-width:800px){
     grid-template-columns: 1fr;
   }
-  h2 { margin: 0; color: var(--color); line-height: 1.2;}
+  h2 { 
+    margin: 0; 
+    color: var(--color); 
+    line-height: 1.2; 
+    font-weight: 400;
+    font-size: clamp(1.5rem, 2.5vw, 2.5rem);
+  }
   > div {
     padding-left: calc( var(--line-offset) + var(--event-padding));
+    &.edition-et-culture-graphique {
+      text-align: right;;
+    }
     @media (max-width:800px){
       padding-left: 0;
     }
-    p {margin-top: .25em;}
+    p {margin-top: .25em; font-style: italic;}
   }
 }
 
@@ -52,6 +68,10 @@
   grid-template-columns: 2fr 3fr 2fr ;
   grid-auto-flow: dense;
   grid-gap: 0 var(--grid-gap);
+  scroll-margin-top:7em;
+  &:target {
+    margin-top: 6em;
+  }
   @media (max-width:800px){
     grid-template-columns: 1fr;
   }
@@ -81,6 +101,8 @@
     }
   }
 }
+
+.year-content { scroll-margin-top:7em; }
 .events {
   &.edition-et-culture-graphique {
     grid-column: 1;
@@ -109,6 +131,7 @@
   }
   &.edition-et-culture-graphique {
     grid-column: 1;
+    text-align: right;
   }
   &.les-rencontres-de-lure {
     grid-column: 2;
@@ -131,6 +154,8 @@
     @media (max-width:800px){
       display: none;
     }
+    // test
+    display: none;
   }
   :first-child {margin-top: 0;}
   .introduction {
@@ -138,8 +163,13 @@
   }
   
 }
+.source {
+  font-size: .85em;
+  text-decoration: underline;
+}
 
 .event-cover {
   margin: 0;
   padding: 0;
+  img {display: block;}
 }
