@@ -9,6 +9,7 @@ tabs:
     sections:
       drafts:
         headline: Brouillons
+        parent: site.find("chronologie")
         type: pages
         templates: 
           - event
