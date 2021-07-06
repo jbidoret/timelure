@@ -10,4 +10,4 @@ Introduction: L’actualité de l’édition, de la création graphique et typog
 
 ----
 
-Color: #438131
+Color: #8C32BF

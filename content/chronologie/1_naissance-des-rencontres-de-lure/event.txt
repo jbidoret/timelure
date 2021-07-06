@@ -9,6 +9,10 @@ Maximilien Vox 1953
 
 ----
 
+Introduction-text: 
+
+----
+
 Text:
 
 Maximilien Vox, frère de Théodore Monod, raconte sa découverte de Lurs alors que le village, sans eau courante, est presque abandonné.
@@ -53,6 +57,10 @@ Year: 1953
 ----
 
 Theme: 0lf6zjuw
+
+----
+
+People: Maximilien Vox, Jean Giono, Jean Garcia, Robert Ranc, Charles Peignot
 
 ----
 
