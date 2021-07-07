@@ -523,16 +523,7 @@ html {
   margin: 0;
   padding: 0; }
   .event-cover img {
-    display: block;
-    -webkit-filter: grayscale(1);
-    filter: grayscale(1); }
-    .event-cover img:hover {
-      -webkit-filter: grayscale(0);
-      filter: grayscale(0); }
-    @media (max-width: 800px) {
-      .event-cover img {
-        -webkit-filter: none;
-        filter: none; } }
+    display: block; }
 
 .event-detail,
 .gallery {

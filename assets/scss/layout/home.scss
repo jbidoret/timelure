@@ -176,10 +176,10 @@
   padding: 0;
   img {
     display: block;
-    filter: grayscale(1);
-    &:hover { filter: grayscale(0);}
-    @media (max-width:800px){
-      filter: none
-    }
+    // filter: grayscale(1);
+    // &:hover { filter: grayscale(0);}
+    // @media (max-width:800px){
+    //   filter: none
+    // }
   }
 }
