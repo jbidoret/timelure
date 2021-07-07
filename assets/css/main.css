@@ -429,7 +429,8 @@ html {
     margin-top: 6em; }
   @media (max-width: 800px) {
     .year {
-      grid-template-columns: 1fr; } }
+      grid-template-columns: 1fr;
+      margin-top: var(--margin); } }
   .year span {
     border-right: 2px solid var(--color);
     width: var(--line-offset);
@@ -484,6 +485,9 @@ html {
   .timeline-event.edition-et-culture-graphique {
     grid-column: 1;
     text-align: right; }
+    @media (max-width: 800px) {
+      .timeline-event.edition-et-culture-graphique {
+        text-align: left; } }
   .timeline-event.les-rencontres-de-lure {
     grid-column: 2; }
   .timeline-event.typographie-et-technique {
@@ -525,6 +529,10 @@ html {
     .event-cover img:hover {
       -webkit-filter: grayscale(0);
       filter: grayscale(0); }
+    @media (max-width: 800px) {
+      .event-cover img {
+        -webkit-filter: none;
+        filter: none; } }
 
 .event-detail,
 .gallery {
@@ -532,15 +540,25 @@ html {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
   grid-gap: 40px; }
+  @media (max-width: 800px) {
+    .event-detail,
+    .gallery {
+      grid-template-columns: 1fr; } }
   .event-detail a,
   .gallery a {
     text-decoration: underline; }
+
+body > .main-event {
+  margin: 0 var(--margin); }
 
 .event-detail {
   grid-gap: 0 40px; }
   .event-detail header {
     grid-column: span 6;
     position: relative; }
+    @media (max-width: 800px) {
+      .event-detail header {
+        grid-column: span 1; } }
     .event-detail header h2 {
       margin: 0; }
     .event-detail header h1 {
@@ -556,9 +574,15 @@ html {
       cursor: pointer; }
   .event-detail .event-text {
     grid-column: span 4; }
+    @media (max-width: 800px) {
+      .event-detail .event-text {
+        grid-column: span 1; } }
   .event-detail .event-details {
     grid-column: span 2;
     font-size: .85em; }
+    @media (max-width: 800px) {
+      .event-detail .event-details {
+        grid-column: span 1; } }
     .event-detail .event-details h1, .event-detail .event-details h2, .event-detail .event-details h3, .event-detail .event-details h4 {
       font-size: 1em;
       font-weight: bold;
@@ -589,6 +613,16 @@ html {
 .gallery .one_of_three {
   grid-column: span 2; }
 
+@media (max-width: 800px) {
+  .gallery .two_of_three {
+    grid-column: span 1; }
+  .gallery .one_of_two {
+    grid-column: span 1; }
+  .gallery .one_of_one {
+    grid-column: span 1; }
+  .gallery .one_of_three {
+    grid-column: span 1; } }
+
 body {
   margin: 0;
   background: var(--background-color); }
@@ -609,6 +643,9 @@ body {
   align-items: center;
   border-bottom: 1px solid;
   background: var(--background-color); }
+  @media (max-width: 800px) {
+    #header {
+      position: static; } }
   #header > div {
     display: -webkit-box;
     display: -webkit-flex;
@@ -623,6 +660,17 @@ body {
     -ms-flex-align: end;
     align-items: flex-end;
     width: 100%; }
+    @media (max-width: 1024px) {
+      #header > div {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-align: start;
+        -webkit-align-items: flex-start;
+        -ms-flex-align: start;
+        align-items: flex-start; } }
   #header h1 {
     font-size: 1em;
     font-weight: 900;
@@ -630,11 +678,21 @@ body {
   #header p {
     margin: 0; }
 
+@media (max-width: 1024px) {
+  #years-nav {
+    margin: var(--padding) calc(-1 * var(--padding)) 0;
+    border-top: 1px solid;
+    padding: var(--padding) var(--padding) 0;
+    width: calc( 100% + var(--padding) *2); } }
+
 #years-nav ul {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
   list-style-type: none;
   margin: 0;
   padding: 0; }

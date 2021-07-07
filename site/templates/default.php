@@ -1,5 +1,5 @@
 <?php snippet('header') ?>
-  <main  data-year="<?= $page->year()->value() ?>" data-slug="<?= $page->slug() ?>">
+  <main class="main-event" data-year="<?= $page->year()->value() ?>" data-slug="<?= $page->slug() ?>">
     <article class="event-detail <?= $page->theme()->fromAutoID()->slug() ?>">
       <header>
         <h2><?= $page->year()->html() ?></h2>

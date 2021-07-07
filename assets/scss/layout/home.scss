@@ -75,6 +75,7 @@
   }
   @media (max-width:800px){
     grid-template-columns: 1fr;
+    margin-top: var(--margin);
   }
   
   span {
@@ -133,6 +134,7 @@
   &.edition-et-culture-graphique {
     grid-column: 1;
     text-align: right;
+    @media(max-width:800px){text-align: left;}
   }
   &.les-rencontres-de-lure {
     grid-column: 2;
@@ -176,6 +178,8 @@
     display: block;
     filter: grayscale(1);
     &:hover { filter: grayscale(0);}
-
+    @media (max-width:800px){
+      filter: none
+    }
   }
 }

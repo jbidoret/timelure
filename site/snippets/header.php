@@ -42,20 +42,20 @@
         <h1><a href="<?= $site->url() ?>"><?= $site->title() ?></a></h1>
         <?php e($site->tagline()->isNotEmpty(), "<p>" . $site->tagline()->kti() . "</p>" ) ?>
       </header>
-      <?php if($page->intendedTemplate() == "home") :?>
+      
       <nav id="years-nav">
         <ul>
-          <li><a href="#annee-1953">1953</a></li>
-          <li><a href="#annee-1960">1960</a></li>
-          <li><a href="#annee-1970">1970</a></li>
-          <li><a href="#annee-1980">1980</a></li>
-          <li><a href="#annee-1990">1990</a></li>
-          <li><a href="#annee-2000">2000</a></li>
-          <li><a href="#annee-2010">2010</a></li>
-          <li><a href="#annee-2020">2020</a></li>
+          <li><a href="<?= $site->url()?>#annee-1953">1953</a></li>
+          <li><a href="<?= $site->url()?>#annee-1960">1960</a></li>
+          <li><a href="<?= $site->url()?>#annee-1970">1970</a></li>
+          <li><a href="<?= $site->url()?>#annee-1980">1980</a></li>
+          <li><a href="<?= $site->url()?>#annee-1990">1990</a></li>
+          <li><a href="<?= $site->url()?>#annee-2000">2000</a></li>
+          <li><a href="<?= $site->url()?>#annee-2010">2010</a></li>
+          <li><a href="<?= $site->url()?>#annee-2020">2020</a></li>
         </ul>
       </nav>
-      <?php endif ?>
+      <?php if($page->intendedTemplate() == "home") :?><?php endif ?>
     </div>
   </div>
 
